@@ -19,7 +19,9 @@ Text.Slogan{
 Label{
     -fx-font-size:20;
 	-fx-color:red;
+	-fx-alighment:center;
 }
 Button{
     -fx-font-size:20px;
 }
+
